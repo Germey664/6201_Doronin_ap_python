@@ -1,0 +1,8 @@
+# config.toml
+[data]
+a = 1
+b = 1
+c = 1
+xmin = 1
+xmax = 5
+step = 1
